@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YouTube test</string>
+
+    <string-array name="link">
+        <item>_hGcXJjPsTw</item>
+        <item>ToHKBAIVyPQ</item>
+        <item>pyPKfCwksyA</item>
+        <item>diGoj6QD9So</item>
+        <item>zEkuQHP83Gc</item>
+        <item>gQ_9-o3LhbQ</item>
+        <item>uQ5OVVXZeMQ</item>
+    </string-array>
+</resources>
